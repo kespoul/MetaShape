@@ -1,7 +1,7 @@
-# Metashape_Test
+# MetaShape
 Metashape is a design tool developed for non-imaging metasurfaces. It calculates the phase profile of a metasurface (in 1D or 2D) that produces a specific target pattern at a known distance, given the intensity distribution of the incident beam. When used in combination with the [diffractsim](https://github.com/rafael-fuente/diffractsim) repository by rafael-fuente, one can simulate the resulting beam shaping performed by the newly designed metasurface.
 
-## COMPATIBILITY
+## Compatibility
 This software was written and tested on Windows 11 Enterprise (Version 23H2 OS build 22631.4602).
 
 The current version requires all input to be on the form of an analytical expression. Any experimental data thus requires fitting prior to using MetaShape.
